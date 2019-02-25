@@ -1,4 +1,8 @@
 # Multiple_year_Stock_Analysis_VBA
+
+The Range Function. In many ways, the Range function is far more powerful than using Cells, because it lets you reference either a single cell, or a specific range of cells, all at once. ... When using Range the run time of the program is within 3 to 5 minutes or even less.
+
+
 Easy
 
 
